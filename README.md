@@ -42,7 +42,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a VPS ♥️! **
 
 #### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/Itz-fork/Unzipper-Bot/tree/arch">
+<a href="https://www.heroku.com/deploy?template=https://github.com/MSTL-Updates/Unzipper-Bot/tree/arch">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
@@ -51,7 +51,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a VPS ♥️! **
 #### Self-Hosting
 
 ```bash
-git clone -b arch https://github.com/Itz-fork/Unzipper-Bot.git
+git clone -b arch https://github.com/MSTL-Updates/Unzipper-Bot.git
 cd Unzipper-Bot
 pip3 install -r requirements.txt
 
@@ -67,7 +67,7 @@ bash start.sh
 
 ---
 
-**DONE 🥳, Enjoy The Bot! Be sure to Follow Me on [Github](https://github.com/Itz-fork) and Star 🌟 this repo to Show some support 😍!**
+**DONE 🥳, Enjoy The Bot! Be sure to Follow Me on [Github](https://github.com/MSTL-Updates) and Star 🌟 this repo to Show some support 😍!**
 
 </br>
 
@@ -81,10 +81,10 @@ If you found a bug in this bot please open an [issue](https://github.com/Itz-for
 
 ## Support 💙
 
-<a href="https://t.me/NexaBotsUpdates">
+<a href="https://t.me/STLbotz">
   <img src="https://img.shields.io/badge/Updates_Channel-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://t.me/Nexa_bots">
+<a href="https://t.me/MSTLsupport">
   <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
